@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  font-size: 10px;
+}
+
+form {
+  .invalid {
+    padding: 0.5em 0;
+    font-size: 0.7em;
+    color: red;
+  }
+}
